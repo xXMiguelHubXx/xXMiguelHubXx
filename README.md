@@ -6,7 +6,7 @@
 [![blog](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Miguelito_1999)
 [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edilson-miguel-a05291172/)
 
-![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=xXMiguelHubXx&show_icons=true&theme=radical)
+![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miguelzvd&show_icons=true&theme=radical)
 
 ## TECHNOLOGYS THAT I USE:
 <div style="display: inline_block">
