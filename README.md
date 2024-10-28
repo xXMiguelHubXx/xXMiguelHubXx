@@ -5,7 +5,7 @@
 ### 🌐 About Me
 I'm a **Computer Engineering graduate** with a solid background in **web development**. Currently, I'm a research fellow at FUNCITERN, where I lead projects for SETHAS, focusing on web systems for social programs that support low-income communities. I have experience in creating intuitive, scalable applications and am always looking for opportunities to expand my knowledge and contribute to impactful digital solutions.
 
-Check out my latest project, [Jovem Potiguar](https://jovempotiguar.sine.rn.gov.br/), which aims to empower low-income individuals through professional training!
+Check out my latest project, <a href="https://jovempotiguar.sine.rn.gov.br/" target="_blank">Jovem Potiguar</a>, which aims to empower low-income individuals through professional training!
 
 ---
 
